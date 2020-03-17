@@ -1,5 +1,5 @@
 # EstructuraDeBasedeDatos
-A qui hay algunos programas para estructura de base de datos, ademas que les pondré ligas de donde apoyarse :)
+A qui hay algunos programas para estructura de base de datos en C#, ademas que les pondré ligas de donde apoyarse :)
 
 liga 1: https://www.tutorialsteacher.com/csharp/csharp-tutorials
 
