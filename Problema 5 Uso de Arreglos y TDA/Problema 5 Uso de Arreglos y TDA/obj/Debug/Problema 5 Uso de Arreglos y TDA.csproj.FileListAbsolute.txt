@@ -1,0 +1,6 @@
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 5 Uso de Arreglos y TDA\Problema 5 Uso de Arreglos y TDA\bin\Debug\Problema 5 Uso de Arreglos y TDA.exe.config
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 5 Uso de Arreglos y TDA\Problema 5 Uso de Arreglos y TDA\bin\Debug\Problema 5 Uso de Arreglos y TDA.exe
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 5 Uso de Arreglos y TDA\Problema 5 Uso de Arreglos y TDA\bin\Debug\Problema 5 Uso de Arreglos y TDA.pdb
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 5 Uso de Arreglos y TDA\Problema 5 Uso de Arreglos y TDA\obj\Debug\Problema 5 Uso de Arreglos y TDA.csprojAssemblyReference.cache
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 5 Uso de Arreglos y TDA\Problema 5 Uso de Arreglos y TDA\obj\Debug\Problema 5 Uso de Arreglos y TDA.exe
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 5 Uso de Arreglos y TDA\Problema 5 Uso de Arreglos y TDA\obj\Debug\Problema 5 Uso de Arreglos y TDA.pdb

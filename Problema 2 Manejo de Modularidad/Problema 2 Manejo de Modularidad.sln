@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema 2 Manejo de Modularidad", "Problema 2 Manejo de Modularidad\Problema 2 Manejo de Modularidad.csproj", "{A7964B7D-466B-4E1E-ABB7-765A785421EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7964B7D-466B-4E1E-ABB7-765A785421EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7964B7D-466B-4E1E-ABB7-765A785421EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7964B7D-466B-4E1E-ABB7-765A785421EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7964B7D-466B-4E1E-ABB7-765A785421EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CCEC1CD-A307-4F9C-8561-A3DCA6BAEA0E}
+	EndGlobalSection
+EndGlobal

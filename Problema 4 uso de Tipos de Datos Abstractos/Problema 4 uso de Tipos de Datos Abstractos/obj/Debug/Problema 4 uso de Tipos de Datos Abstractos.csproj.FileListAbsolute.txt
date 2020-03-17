@@ -1,0 +1,6 @@
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 4 uso de Tipos de Datos Abstractos\Problema 4 uso de Tipos de Datos Abstractos\bin\Debug\Problema 4 uso de Tipos de Datos Abstractos.exe.config
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 4 uso de Tipos de Datos Abstractos\Problema 4 uso de Tipos de Datos Abstractos\bin\Debug\Problema 4 uso de Tipos de Datos Abstractos.exe
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 4 uso de Tipos de Datos Abstractos\Problema 4 uso de Tipos de Datos Abstractos\bin\Debug\Problema 4 uso de Tipos de Datos Abstractos.pdb
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 4 uso de Tipos de Datos Abstractos\Problema 4 uso de Tipos de Datos Abstractos\obj\Debug\Problema 4 uso de Tipos de Datos Abstractos.csprojAssemblyReference.cache
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 4 uso de Tipos de Datos Abstractos\Problema 4 uso de Tipos de Datos Abstractos\obj\Debug\Problema 4 uso de Tipos de Datos Abstractos.exe
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 4 uso de Tipos de Datos Abstractos\Problema 4 uso de Tipos de Datos Abstractos\obj\Debug\Problema 4 uso de Tipos de Datos Abstractos.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema 6 Uso de String", "Problema 6 Uso de String\Problema 6 Uso de String.csproj", "{8E19B1CB-69B3-445C-B2B6-EBF776214947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E19B1CB-69B3-445C-B2B6-EBF776214947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E19B1CB-69B3-445C-B2B6-EBF776214947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E19B1CB-69B3-445C-B2B6-EBF776214947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E19B1CB-69B3-445C-B2B6-EBF776214947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D6DB135-176D-4655-8847-612A94582BB6}
+	EndGlobalSection
+EndGlobal

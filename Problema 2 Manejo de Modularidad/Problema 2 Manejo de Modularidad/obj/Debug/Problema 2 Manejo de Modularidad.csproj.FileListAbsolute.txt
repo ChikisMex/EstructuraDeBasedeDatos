@@ -1,0 +1,6 @@
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 2 Manejo de Modularidad\Problema 2 Manejo de Modularidad\bin\Debug\Problema 2 Manejo de Modularidad.exe.config
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 2 Manejo de Modularidad\Problema 2 Manejo de Modularidad\bin\Debug\Problema 2 Manejo de Modularidad.exe
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 2 Manejo de Modularidad\Problema 2 Manejo de Modularidad\bin\Debug\Problema 2 Manejo de Modularidad.pdb
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 2 Manejo de Modularidad\Problema 2 Manejo de Modularidad\obj\Debug\Problema 2 Manejo de Modularidad.csprojAssemblyReference.cache
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 2 Manejo de Modularidad\Problema 2 Manejo de Modularidad\obj\Debug\Problema 2 Manejo de Modularidad.exe
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 2 Manejo de Modularidad\Problema 2 Manejo de Modularidad\obj\Debug\Problema 2 Manejo de Modularidad.pdb

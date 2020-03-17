@@ -1,0 +1,6 @@
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 7 Uso de string\bin\Debug\Problema 7 Uso de string.exe.config
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 7 Uso de string\bin\Debug\Problema 7 Uso de string.exe
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 7 Uso de string\bin\Debug\Problema 7 Uso de string.pdb
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 7 Uso de string\obj\Debug\Problema 7 Uso de string.csprojAssemblyReference.cache
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 7 Uso de string\obj\Debug\Problema 7 Uso de string.exe
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 7 Uso de string\obj\Debug\Problema 7 Uso de string.pdb

@@ -1,0 +1,6 @@
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 6 Uso de String\Problema 6 Uso de String\bin\Debug\Problema 6 Uso de String.exe.config
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 6 Uso de String\Problema 6 Uso de String\bin\Debug\Problema 6 Uso de String.exe
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 6 Uso de String\Problema 6 Uso de String\bin\Debug\Problema 6 Uso de String.pdb
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 6 Uso de String\Problema 6 Uso de String\obj\Debug\Problema 6 Uso de String.csprojAssemblyReference.cache
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 6 Uso de String\Problema 6 Uso de String\obj\Debug\Problema 6 Uso de String.exe
+C:\Users\ihern\Desktop\estructura de base de datos\Problema 6 Uso de String\Problema 6 Uso de String\obj\Debug\Problema 6 Uso de String.pdb
